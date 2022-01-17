@@ -1,16 +1,16 @@
 {
-    "version": "0.76u3",
+    "version": "0.76u4",
     "description": "PuTTY CAC is a fork of the PuTTY, a popular Secure Shell (SSH) terminal. PuTTY CAC adds the ability to use the Windows Certificate API (CAPI) or a Public Key Cryptography Standards (PKCS) library to perform SSH public key authentication using a private key associated with a certificate that is stored on a hardware token.",
     "homepage": "https://github.com/NoMoreFood/putty-cac",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://raw.githubusercontent.com/NoMoreFood/putty-cac/0.76u3/binaries/puttycac-64bit-0.76u3.zip",
-            "hash": "c8755ddda98343786c0b2dfbe2e20087161244bae09eba34ed1d8d06deeaf041"
+            "url": "https://raw.githubusercontent.com/NoMoreFood/putty-cac/0.76u4/binaries/puttycac-64bit-0.76u4.zip",
+            "hash": "cd4db5a25af46d8084905a25392497ab0066e3972c9aee571bb7ebdd645bdd84"
         },
         "32bit": {
-            "url": "https://raw.githubusercontent.com/NoMoreFood/putty-cac/0.76u3/binaries/puttycac-0.76u3.zip",
-            "hash": "93e0e94731561578af08c4a8737709ee5546e68c05aee666ba221431b11cff34"
+            "url": "https://raw.githubusercontent.com/NoMoreFood/putty-cac/0.76u4/binaries/puttycac-0.76u4.zip",
+            "hash": "c43961ee08f380dbed13a11e315dac1a9b0f6119a5e581332473e49ccbe2114b"
         }
     },
     "bin": [
