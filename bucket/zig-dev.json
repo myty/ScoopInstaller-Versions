@@ -1,5 +1,5 @@
 {
-    "version": "0.10.0-dev.1556",
+    "version": "0.10.0-dev.1558",
     "description": "General-purpose programming language designed for robustness, optimality, and maintainability.",
     "homepage": "https://ziglang.org/",
     "license": "MIT",
@@ -8,9 +8,9 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ziglang.org/builds/zig-windows-x86_64-0.10.0-dev.1556+74ccd0c40.zip",
-            "hash": "f84cc70ee190f4bee49d414c1801a6794d5f11a2aa84c1c72f1af5ffa44a6630",
-            "extract_dir": "zig-windows-x86_64-0.10.0-dev.1556+74ccd0c40"
+            "url": "https://ziglang.org/builds/zig-windows-x86_64-0.10.0-dev.1558+2af69710a.zip",
+            "hash": "8ef34668526c8a544a062099905eda56b020aa293de8c4be761aa88bbc58612a",
+            "extract_dir": "zig-windows-x86_64-0.10.0-dev.1558+2af69710a"
         }
     },
     "bin": "zig.exe",
