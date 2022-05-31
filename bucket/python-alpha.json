@@ -1,15 +1,15 @@
 {
     "homepage": "https://www.python.org/",
     "license": "Python-2.0",
-    "version": "3.11.0b1",
+    "version": "3.11.0b2",
     "architecture": {
         "64bit": {
-            "url": "https://www.python.org/ftp/python/3.11.0/python-3.11.0b1-amd64.exe#/py3.exe",
-            "hash": "md5:7279e850e602576115f3ff24f791483d"
+            "url": "https://www.python.org/ftp/python/3.11.0/python-3.11.0b2-amd64.exe#/py3.exe",
+            "hash": "md5:be03987219bd0bd2ed45e03092792d71"
         },
         "32bit": {
-            "url": "https://www.python.org/ftp/python/3.11.0/python-3.11.0b1.exe#/py3.exe",
-            "hash": "md5:34229f38e118756df10db26c45eaf361"
+            "url": "https://www.python.org/ftp/python/3.11.0/python-3.11.0b2.exe#/py3.exe",
+            "hash": "md5:04c4ec7d95454cc0c8c27bd4124c1b25"
         }
     },
     "installer": {
